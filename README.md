@@ -14,6 +14,8 @@ Run the following command in order to review the list of OSGi bundles currently 
 bundle:list
 ```
 
+saucisse
+
 A useful feature you can install right away is the web console. It provides useful monitoring and administration tools.
 
 ```
